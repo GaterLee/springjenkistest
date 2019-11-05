@@ -11,7 +11,7 @@ public class Cotroller {
     @RequestMapping("/hello")
     public  String success(){
 
-        return "超越人海,只为与你相拥";
+        return "此时已莺飞草长,相爱的人在路上";
     }
 
 
