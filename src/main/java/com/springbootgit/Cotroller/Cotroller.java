@@ -11,7 +11,7 @@ public class Cotroller {
     @RequestMapping("/hello")
     public  String success(){
 
-        return "lmm";
+        return "fuck";
     }
 
 
