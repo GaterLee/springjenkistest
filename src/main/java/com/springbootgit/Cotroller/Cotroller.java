@@ -11,7 +11,7 @@ public class Cotroller {
     @RequestMapping("/hello")
     public  String success(){
 
-        return "fuck";
+        return "超越人海,只为与你相拥";
     }
 
 
