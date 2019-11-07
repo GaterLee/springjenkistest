@@ -11,7 +11,7 @@ public class Cotroller {
     @RequestMapping("/hello")
     public  String success(){
 
-        return "人间值得";
+        return "此时莺飞草长,相爱的人在路上";
     }
 
 
